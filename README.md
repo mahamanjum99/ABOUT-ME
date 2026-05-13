@@ -1,12 +1,11 @@
 # Hi there! I'm Maham Anjum 👋  
 ### AI Engineer | C++ Developer | Photographer | Traveler  
 
-🚀 Passionate about Artificial Intelligence, Software Development, and Problem-Solving.  
-🎯 Currently doing an internship at Code Alpha, enhancing my C++ skills.  
+🚀 Passionate about Artificial Intelligence, Software Development, and Problem-Solving. 
 📸 Love exploring new places and capturing memories through photography.  
 
 ## 🛠️ Skills & Technologies  
-- 🔹 Programming Languages: **C++,C**    
+- 🔹 Programming Languages: **C++,C** ,c sharp , python   
 - 🛠️ Tools: **Git, GitHub, Ubuntu, VS Code, Proteus**  
 - 🏗️ Web Dev: **HTML, CSS**  
 - 📷 Hobbies: **Traveling, Photography**  
